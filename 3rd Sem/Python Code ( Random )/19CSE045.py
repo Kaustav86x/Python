@@ -1,11 +1,4 @@
-'''
-Name: Himanshu Verma
-Dept: CSE-1
-Sub: Python Assignment
-Roll no.: 19/cse/45
-Makaut roll : 14800119114
 
-'''
 import numpy as hm 
 
 def calcu(x,w,alpha):
