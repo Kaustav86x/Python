@@ -142,3 +142,5 @@ geocoding API returned for the user-entered input.  If you
 cannot see any data when you open the where.html file, you might
 want to check the JavaScript or developer console for your browser.
 
+
+# THIS ALL IS FROM THE COURSE (PYTHON FOR EVERYBODY ) (COURSERA)
