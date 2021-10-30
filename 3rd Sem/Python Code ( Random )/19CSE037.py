@@ -1,11 +1,4 @@
-'''
-Name: Kaustav Dey
-Dept: CSE-1
-Sub: Python Assignment
-Roll no.: 19/cse/37
-Makaut roll : 14800119120
 
-'''
 import numpy as kd 
 
 def calcut(x,w,alpha):
@@ -48,16 +41,6 @@ if __name__ == "__main__":
     print(mat2)
 
     print("\t\t\t Input for α : ")
-    mat3 = list(map(float,input("Enter the 3 values of alpha: ").split()))
-
-    '''r3 = int(input("Enter the number of rows: "))
-    c3 = int(input("Enter the number of columns: "))
-    print("Enter the entries: ")
-    entries3 = list(map(float,input().split()))
-    mat3 = np.array(entries3).reshape(r3,c3)
-    print("the matrix is: \n")
-    print(mat3)
-    '''
-    print("\n\n\n")
+    mat3 = list(map(float,input("Enter the 2 values of alpha: ").split()))
 
     calcut(mat1,mat2,mat3)
