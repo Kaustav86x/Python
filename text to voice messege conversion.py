@@ -1,6 +1,6 @@
 # text to voice messege conversion in python 
 from gtts import gTTS
-#https://gtts.readthedocs.io/en/latest/module.html#module-gtts.tts
+#https://gtts.readthedocs.io/en/latest/module.html
 from playsound import playsound
 # for playsound module please try to avoid using 1.3.0 version (it didn't work for me)
 # try the older 1.2.2 version
